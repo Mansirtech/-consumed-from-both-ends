@@ -1,20 +1,16 @@
-# Satellite Investigations of Deforestation and Desertification in Nigeria
+# Project 3: Desertification and the Great Green Wall
 
-This repository contains the methodology, data, and Google Earth Engine (GEE) code for multiple remote sensing investigations into environmental change in Nigeria, conducted for an investigative news report.
+## Investigative Focus
+To analyze large-scale environmental trends related to desertification across the Sahel, focusing on groundwater storage and the impact of the Great Green Wall initiative.
 
-## Projects
+## Methodology
+This investigation utilized two distinct analytical methods based on different satellite missions and data sources. Unlike the other projects, these analyses did not involve custom GEE scripts but were based on interpreting and cross-referencing existing scientific data products and open-source intelligence.
 
-This repository is organized into three main projects:
+- **[Groundwater Analysis](./methodology_text/grace_groundwater_analysis.md)**: Details the use of NASA's GRACE satellite data to track changes in underground water storage.
+- **[Great Green Wall Tree Count](./methodology_text/ggw_tree_count_analysis.md)**: Explains the grid-based analysis using an 18x18 km grid, ArcGIS image classification, and NDVI to extract land cover and land use patterns, plus a sub-methodology for on-site verification regarding insurgency-related abandonment and green wall interventions.
 
-1. **[Cross River: Cocoa & Deforestation](cross_river_cocoa\README.md)**: An analysis of forest conversion for agriculture in the Cross River National Park.
-2. **[Gashaka-Gumti: Logging & Habitat Loss](gashaka_gumti_logging/README.md)**: An investigation into a large-scale logging boom and its impact on land cover and wildlife habitat.
-3. **[Sahel: Desertification & The Great Green Wall](sahel_desertification)**: A summary of analyses on groundwater changes and vegetation growth along the Great Green Wall.
+## Data Sources
 
-   
-## Acknowledgements
-
-This research and analysis were conducted by Mansir Muhammed, whose expertise was critical in using these diverse data sources to generate insightful reports on deforestation and desertification in Nigeria. HumAngle published the report, and elements of the data are also featured in investigative articles mentioned in the report, some of which are supported by the Pulitzer Center and Earth Journalism.
-
-## Collaborators
-Olatuji Olaigbe, Ibrahim Adeyemi, Mallam Usman
-
+* **Groundwater:** Gravity Recovery and Climate Experiment (GRACE) Satellite Data (NASA)
+* **Vegetation/Tree Count:** High-Resolution Satellite Mosaics (e.g., Maxar, Planet)
+* **Context:** Open-source intelligence on conflict, displacement, and project implementation sites.
