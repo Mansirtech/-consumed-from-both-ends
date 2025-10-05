@@ -6,13 +6,15 @@ This repository contains the methodology, data, and Google Earth Engine (GEE) co
 
 This repository is organized into three main projects:
 
-1. **[Cross River: Cocoa & Deforestation](cross_river_cocoa/README.md)**: An analysis of forest conversion for agriculture in the Cross River National Park.
+1. **[Cross River: Cocoa & Deforestation](cross_river_cocoa\README.md)**: An analysis of forest conversion for agriculture in the Cross River National Park.
 2. **[Gashaka-Gumti: Logging & Habitat Loss](gashaka_gumti_logging/README.md)**: An investigation into a large-scale logging boom and its impact on land cover and wildlife habitat.
-3. **[Sahel: Desertification & The Great Green Wall](sahel_desertification/README.md)**: A summary of analyses on groundwater changes and vegetation growth along the Great Green Wall.
+3. **[Sahel: Desertification & The Great Green Wall](sahel_desertification)**: A summary of analyses on groundwater changes and vegetation growth along the Great Green Wall.
 
+   
 ## Acknowledgements
 
 This research and analysis were conducted by Mansir Muhammed, whose expertise was critical in using these diverse data sources to generate insightful reports on deforestation and desertification in Nigeria. HumAngle published the report, and elements of the data are also featured in investigative articles mentioned in the report, some of which are supported by the Pulitzer Center and Earth Journalism.
 
 ## Collaborators
 Olatuji Olaigbe, Ibrahim Adeyemi, Mallam Usman
+
