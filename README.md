@@ -1,6 +1,6 @@
 # Satellite Investigations of Deforestation and Desertification in Nigeria
 
-This repository contains the methodology, data, and Google Earth Engine (GEE) code for multiple remote sensing investigations into environmental change in Nigeria, conducted for an investigative news report.
+This repository contains the methodology, data, and GEE code for multiple remote sensing investigations into environmental change in Nigeria, conducted for an investigative news report.
 
 ## Projects
 
@@ -15,4 +15,5 @@ This repository is organized into three main projects:
 This research and analysis was conducted by Mansir Muhammed, whose expertise were critical in using these diverse data sources to generate insightful reports on deforestation and desertification in Nigeria. HumAngle published the report and elements of the data are also published in featured investigative articles some supported by Pulitzer centre and Earth Journalism.
 
 ## Collaborators
+
 Olatuji Olaigbe, Ibrahim Adeyemi, Mallam Usman
